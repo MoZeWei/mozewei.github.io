@@ -1,5 +1,12 @@
 papers:
 
+  - title: "STMC: Small-Tile Multiple-Copy Compilation for Reliable Measurement-Based Quantum Computing"
+    authors: "Rongchao Dong, <b>Zewei Mo</b>, Yingheng Li, Aditya Pawar, Jun Yang, Youtao Zhang, Xulong Tang"
+    venue: "ICCAD 2025"
+    paper_pdf: "https://mozewei.github.io/"
+    slide: "https://mozewei.github.io/"
+    image: "assets/figure/blank.png"
+
   - title: "FMCC: Flexible Measurement-based Quantum Computation over Cluster State"
     authors: "Yingheng Li, Aditya Pawar, <b>Zewei Mo</b>, Youtao Zhang, Jun Yang, Xulong Tang"
     venue: "ASPLOS 2024 (appeared in ASPLOS 2025)"
